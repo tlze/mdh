@@ -1,0 +1,7 @@
+name = "mdh"
+main = "_worker.js"
+compatibility_date = "2023-02-16"
+rules = [{ type = "Text", globs = ["**/*.html"] }]
+
+[vars]
+URL = 'nginx'
