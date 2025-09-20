@@ -1,0 +1,8 @@
+{
+    "name": "mdh",
+    "compatibility_date": "2025-08-25",
+    "main": "_worker.js",
+    "vars": {
+        "URL": "nginx"
+    }
+}
